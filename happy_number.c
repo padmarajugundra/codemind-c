@@ -27,6 +27,4 @@ int main()
 	{
 		printf("False");
 	}
-	
-//	printf("%d",s);
 }
